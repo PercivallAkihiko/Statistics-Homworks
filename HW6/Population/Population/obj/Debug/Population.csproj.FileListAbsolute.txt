@@ -1,0 +1,11 @@
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW6\Population\Population\obj\Debug\Population.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW6\Population\Population\obj\Debug\Population.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW6\Population\Population\obj\Debug\Population.Properties.Resources.resources
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW6\Population\Population\obj\Debug\Population.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW6\Population\Population\obj\Debug\Population.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW6\Population\Population\bin\Debug\Population.exe.config
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW6\Population\Population\bin\Debug\Population.exe
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW6\Population\Population\bin\Debug\Population.pdb
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW6\Population\Population\obj\Debug\Population.exe
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW6\Population\Population\obj\Debug\Population.pdb
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW6\Population\Population\obj\Debug\Population.Form1.resources

@@ -1,0 +1,10 @@
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW6\WeightDistribution\WeightDistribution\bin\Debug\WeightDistribution.exe.config
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW6\WeightDistribution\WeightDistribution\bin\Debug\WeightDistribution.exe
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW6\WeightDistribution\WeightDistribution\bin\Debug\WeightDistribution.pdb
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW6\WeightDistribution\WeightDistribution\obj\Debug\WeightDistribution.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW6\WeightDistribution\WeightDistribution\obj\Debug\WeightDistribution.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW6\WeightDistribution\WeightDistribution\obj\Debug\WeightDistribution.Properties.Resources.resources
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW6\WeightDistribution\WeightDistribution\obj\Debug\WeightDistribution.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW6\WeightDistribution\WeightDistribution\obj\Debug\WeightDistribution.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW6\WeightDistribution\WeightDistribution\obj\Debug\WeightDistribution.exe
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW6\WeightDistribution\WeightDistribution\obj\Debug\WeightDistribution.pdb
