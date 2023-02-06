@@ -1,0 +1,22 @@
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\chart distribution\chart distribution\bin\Debug\chart distribution.exe.config
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\chart distribution\chart distribution\bin\Debug\chart distribution.exe
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\chart distribution\chart distribution\bin\Debug\chart distribution.pdb
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\chart distribution\chart distribution\obj\Debug\chart distribution.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\chart distribution\chart distribution\obj\Debug\chart distribution.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\chart distribution\chart distribution\obj\Debug\chart_distribution.Properties.Resources.resources
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\chart distribution\chart distribution\obj\Debug\chart distribution.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\chart distribution\chart distribution\obj\Debug\chart distribution.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\chart distribution\chart distribution\obj\Debug\chart distribution.exe
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\chart distribution\chart distribution\obj\Debug\chart distribution.pdb
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\chart distribution\chart distribution\obj\Debug\chart_distribution.Global.resources
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW4\Char Distribution\chart distribution\bin\Debug\chart distribution.exe.config
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW4\Char Distribution\chart distribution\bin\Debug\chart distribution.exe
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW4\Char Distribution\chart distribution\bin\Debug\chart distribution.pdb
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW4\Char Distribution\chart distribution\obj\Debug\chart distribution.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW4\Char Distribution\chart distribution\obj\Debug\chart distribution.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW4\Char Distribution\chart distribution\obj\Debug\chart_distribution.Global.resources
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW4\Char Distribution\chart distribution\obj\Debug\chart_distribution.Properties.Resources.resources
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW4\Char Distribution\chart distribution\obj\Debug\chart distribution.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW4\Char Distribution\chart distribution\obj\Debug\chart distribution.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW4\Char Distribution\chart distribution\obj\Debug\chart distribution.exe
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW4\Char Distribution\chart distribution\obj\Debug\chart distribution.pdb

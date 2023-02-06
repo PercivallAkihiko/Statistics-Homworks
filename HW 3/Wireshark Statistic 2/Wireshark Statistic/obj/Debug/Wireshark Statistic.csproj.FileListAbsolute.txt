@@ -1,0 +1,33 @@
+C:\Users\kik-n\Desktop\Program\C#\Wireshark Statistic\Wireshark Statistic\bin\Debug\Wireshark Statistic.exe.config
+C:\Users\kik-n\Desktop\Program\C#\Wireshark Statistic\Wireshark Statistic\bin\Debug\Wireshark Statistic.exe
+C:\Users\kik-n\Desktop\Program\C#\Wireshark Statistic\Wireshark Statistic\bin\Debug\Wireshark Statistic.pdb
+C:\Users\kik-n\Desktop\Program\C#\Wireshark Statistic\Wireshark Statistic\obj\Debug\Wireshark Statistic.csproj.AssemblyReference.cache
+C:\Users\kik-n\Desktop\Program\C#\Wireshark Statistic\Wireshark Statistic\obj\Debug\Wireshark Statistic.csproj.SuggestedBindingRedirects.cache
+C:\Users\kik-n\Desktop\Program\C#\Wireshark Statistic\Wireshark Statistic\obj\Debug\Wireshark_Statistic.Form1.resources
+C:\Users\kik-n\Desktop\Program\C#\Wireshark Statistic\Wireshark Statistic\obj\Debug\Wireshark_Statistic.Properties.Resources.resources
+C:\Users\kik-n\Desktop\Program\C#\Wireshark Statistic\Wireshark Statistic\obj\Debug\Wireshark Statistic.csproj.GenerateResource.cache
+C:\Users\kik-n\Desktop\Program\C#\Wireshark Statistic\Wireshark Statistic\obj\Debug\Wireshark Statistic.csproj.CoreCompileInputs.cache
+C:\Users\kik-n\Desktop\Program\C#\Wireshark Statistic\Wireshark Statistic\obj\Debug\Wireshark Statistic.exe
+C:\Users\kik-n\Desktop\Program\C#\Wireshark Statistic\Wireshark Statistic\obj\Debug\Wireshark Statistic.pdb
+C:\Users\kik-n\Desktop\Università\Statistica\HW 3\Wireshark Statistic\Wireshark Statistic\bin\Debug\Wireshark Statistic.exe.config
+C:\Users\kik-n\Desktop\Università\Statistica\HW 3\Wireshark Statistic\Wireshark Statistic\bin\Debug\Wireshark Statistic.exe
+C:\Users\kik-n\Desktop\Università\Statistica\HW 3\Wireshark Statistic\Wireshark Statistic\bin\Debug\Wireshark Statistic.pdb
+C:\Users\kik-n\Desktop\Università\Statistica\HW 3\Wireshark Statistic\Wireshark Statistic\obj\Debug\Wireshark Statistic.csproj.AssemblyReference.cache
+C:\Users\kik-n\Desktop\Università\Statistica\HW 3\Wireshark Statistic\Wireshark Statistic\obj\Debug\Wireshark Statistic.csproj.SuggestedBindingRedirects.cache
+C:\Users\kik-n\Desktop\Università\Statistica\HW 3\Wireshark Statistic\Wireshark Statistic\obj\Debug\Wireshark_Statistic.Form1.resources
+C:\Users\kik-n\Desktop\Università\Statistica\HW 3\Wireshark Statistic\Wireshark Statistic\obj\Debug\Wireshark_Statistic.Properties.Resources.resources
+C:\Users\kik-n\Desktop\Università\Statistica\HW 3\Wireshark Statistic\Wireshark Statistic\obj\Debug\Wireshark Statistic.csproj.GenerateResource.cache
+C:\Users\kik-n\Desktop\Università\Statistica\HW 3\Wireshark Statistic\Wireshark Statistic\obj\Debug\Wireshark Statistic.csproj.CoreCompileInputs.cache
+C:\Users\kik-n\Desktop\Università\Statistica\HW 3\Wireshark Statistic\Wireshark Statistic\obj\Debug\Wireshark Statistic.exe
+C:\Users\kik-n\Desktop\Università\Statistica\HW 3\Wireshark Statistic\Wireshark Statistic\obj\Debug\Wireshark Statistic.pdb
+C:\Users\kik-n\Desktop\Università\Statistica\HW 3\Wireshark Statistic 2\Wireshark Statistic\bin\Debug\Wireshark Statistic.exe.config
+C:\Users\kik-n\Desktop\Università\Statistica\HW 3\Wireshark Statistic 2\Wireshark Statistic\bin\Debug\Wireshark Statistic.exe
+C:\Users\kik-n\Desktop\Università\Statistica\HW 3\Wireshark Statistic 2\Wireshark Statistic\bin\Debug\Wireshark Statistic.pdb
+C:\Users\kik-n\Desktop\Università\Statistica\HW 3\Wireshark Statistic 2\Wireshark Statistic\obj\Debug\Wireshark Statistic.csproj.AssemblyReference.cache
+C:\Users\kik-n\Desktop\Università\Statistica\HW 3\Wireshark Statistic 2\Wireshark Statistic\obj\Debug\Wireshark Statistic.csproj.SuggestedBindingRedirects.cache
+C:\Users\kik-n\Desktop\Università\Statistica\HW 3\Wireshark Statistic 2\Wireshark Statistic\obj\Debug\Wireshark_Statistic.Form1.resources
+C:\Users\kik-n\Desktop\Università\Statistica\HW 3\Wireshark Statistic 2\Wireshark Statistic\obj\Debug\Wireshark_Statistic.Properties.Resources.resources
+C:\Users\kik-n\Desktop\Università\Statistica\HW 3\Wireshark Statistic 2\Wireshark Statistic\obj\Debug\Wireshark Statistic.csproj.GenerateResource.cache
+C:\Users\kik-n\Desktop\Università\Statistica\HW 3\Wireshark Statistic 2\Wireshark Statistic\obj\Debug\Wireshark Statistic.csproj.CoreCompileInputs.cache
+C:\Users\kik-n\Desktop\Università\Statistica\HW 3\Wireshark Statistic 2\Wireshark Statistic\obj\Debug\Wireshark Statistic.exe
+C:\Users\kik-n\Desktop\Università\Statistica\HW 3\Wireshark Statistic 2\Wireshark Statistic\obj\Debug\Wireshark Statistic.pdb

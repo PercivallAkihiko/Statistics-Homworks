@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chart distribution", "chart distribution\chart distribution.csproj", "{92CD2566-59BD-458A-A826-29B79BA03EAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92CD2566-59BD-458A-A826-29B79BA03EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92CD2566-59BD-458A-A826-29B79BA03EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92CD2566-59BD-458A-A826-29B79BA03EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92CD2566-59BD-458A-A826-29B79BA03EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92BC0077-B343-4A9A-84F6-0A63E2D489B8}
+	EndGlobalSection
+EndGlobal
