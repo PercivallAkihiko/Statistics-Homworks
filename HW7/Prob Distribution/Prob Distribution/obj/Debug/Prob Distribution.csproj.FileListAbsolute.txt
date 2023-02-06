@@ -1,0 +1,11 @@
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW7\Prob Distribution\Prob Distribution\bin\Debug\Prob Distribution.exe.config
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW7\Prob Distribution\Prob Distribution\bin\Debug\Prob Distribution.exe
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW7\Prob Distribution\Prob Distribution\bin\Debug\Prob Distribution.pdb
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW7\Prob Distribution\Prob Distribution\obj\Debug\Prob Distribution.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW7\Prob Distribution\Prob Distribution\obj\Debug\Prob Distribution.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW7\Prob Distribution\Prob Distribution\obj\Debug\Prob_Distribution.Form1.resources
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW7\Prob Distribution\Prob Distribution\obj\Debug\Prob_Distribution.Properties.Resources.resources
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW7\Prob Distribution\Prob Distribution\obj\Debug\Prob Distribution.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW7\Prob Distribution\Prob Distribution\obj\Debug\Prob Distribution.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW7\Prob Distribution\Prob Distribution\obj\Debug\Prob Distribution.exe
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW7\Prob Distribution\Prob Distribution\obj\Debug\Prob Distribution.pdb
