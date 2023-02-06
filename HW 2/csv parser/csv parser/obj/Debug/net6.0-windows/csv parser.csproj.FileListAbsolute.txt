@@ -1,0 +1,34 @@
+C:\Users\kik-n\Desktop\Program\C#\csv parser\csv parser\bin\Debug\net6.0-windows\csv parser.exe
+C:\Users\kik-n\Desktop\Program\C#\csv parser\csv parser\bin\Debug\net6.0-windows\csv parser.deps.json
+C:\Users\kik-n\Desktop\Program\C#\csv parser\csv parser\bin\Debug\net6.0-windows\csv parser.runtimeconfig.json
+C:\Users\kik-n\Desktop\Program\C#\csv parser\csv parser\bin\Debug\net6.0-windows\csv parser.dll
+C:\Users\kik-n\Desktop\Program\C#\csv parser\csv parser\bin\Debug\net6.0-windows\csv parser.pdb
+C:\Users\kik-n\Desktop\Program\C#\csv parser\csv parser\obj\Debug\net6.0-windows\csv parser.csproj.AssemblyReference.cache
+C:\Users\kik-n\Desktop\Program\C#\csv parser\csv parser\obj\Debug\net6.0-windows\csv_parser.Form1.resources
+C:\Users\kik-n\Desktop\Program\C#\csv parser\csv parser\obj\Debug\net6.0-windows\csv parser.csproj.GenerateResource.cache
+C:\Users\kik-n\Desktop\Program\C#\csv parser\csv parser\obj\Debug\net6.0-windows\csv parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kik-n\Desktop\Program\C#\csv parser\csv parser\obj\Debug\net6.0-windows\csv parser.AssemblyInfoInputs.cache
+C:\Users\kik-n\Desktop\Program\C#\csv parser\csv parser\obj\Debug\net6.0-windows\csv parser.AssemblyInfo.cs
+C:\Users\kik-n\Desktop\Program\C#\csv parser\csv parser\obj\Debug\net6.0-windows\csv parser.csproj.CoreCompileInputs.cache
+C:\Users\kik-n\Desktop\Program\C#\csv parser\csv parser\obj\Debug\net6.0-windows\csv parser.dll
+C:\Users\kik-n\Desktop\Program\C#\csv parser\csv parser\obj\Debug\net6.0-windows\refint\csv parser.dll
+C:\Users\kik-n\Desktop\Program\C#\csv parser\csv parser\obj\Debug\net6.0-windows\csv parser.pdb
+C:\Users\kik-n\Desktop\Program\C#\csv parser\csv parser\obj\Debug\net6.0-windows\csv parser.genruntimeconfig.cache
+C:\Users\kik-n\Desktop\Program\C#\csv parser\csv parser\obj\Debug\net6.0-windows\ref\csv parser.dll
+C:\Users\kik-n\Desktop\Università\Statistica\HW 2\csv parser\csv parser\bin\Debug\net6.0-windows\csv parser.exe
+C:\Users\kik-n\Desktop\Università\Statistica\HW 2\csv parser\csv parser\bin\Debug\net6.0-windows\csv parser.deps.json
+C:\Users\kik-n\Desktop\Università\Statistica\HW 2\csv parser\csv parser\bin\Debug\net6.0-windows\csv parser.runtimeconfig.json
+C:\Users\kik-n\Desktop\Università\Statistica\HW 2\csv parser\csv parser\bin\Debug\net6.0-windows\csv parser.dll
+C:\Users\kik-n\Desktop\Università\Statistica\HW 2\csv parser\csv parser\bin\Debug\net6.0-windows\csv parser.pdb
+C:\Users\kik-n\Desktop\Università\Statistica\HW 2\csv parser\csv parser\obj\Debug\net6.0-windows\csv parser.csproj.AssemblyReference.cache
+C:\Users\kik-n\Desktop\Università\Statistica\HW 2\csv parser\csv parser\obj\Debug\net6.0-windows\csv_parser.Form1.resources
+C:\Users\kik-n\Desktop\Università\Statistica\HW 2\csv parser\csv parser\obj\Debug\net6.0-windows\csv parser.csproj.GenerateResource.cache
+C:\Users\kik-n\Desktop\Università\Statistica\HW 2\csv parser\csv parser\obj\Debug\net6.0-windows\csv parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kik-n\Desktop\Università\Statistica\HW 2\csv parser\csv parser\obj\Debug\net6.0-windows\csv parser.AssemblyInfoInputs.cache
+C:\Users\kik-n\Desktop\Università\Statistica\HW 2\csv parser\csv parser\obj\Debug\net6.0-windows\csv parser.AssemblyInfo.cs
+C:\Users\kik-n\Desktop\Università\Statistica\HW 2\csv parser\csv parser\obj\Debug\net6.0-windows\csv parser.csproj.CoreCompileInputs.cache
+C:\Users\kik-n\Desktop\Università\Statistica\HW 2\csv parser\csv parser\obj\Debug\net6.0-windows\csv parser.dll
+C:\Users\kik-n\Desktop\Università\Statistica\HW 2\csv parser\csv parser\obj\Debug\net6.0-windows\refint\csv parser.dll
+C:\Users\kik-n\Desktop\Università\Statistica\HW 2\csv parser\csv parser\obj\Debug\net6.0-windows\csv parser.pdb
+C:\Users\kik-n\Desktop\Università\Statistica\HW 2\csv parser\csv parser\obj\Debug\net6.0-windows\csv parser.genruntimeconfig.cache
+C:\Users\kik-n\Desktop\Università\Statistica\HW 2\csv parser\csv parser\obj\Debug\net6.0-windows\ref\csv parser.dll

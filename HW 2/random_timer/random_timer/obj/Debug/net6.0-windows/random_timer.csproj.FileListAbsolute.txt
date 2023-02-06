@@ -1,0 +1,17 @@
+C:\Users\kik-n\Desktop\Program\C#\random_timer\random_timer\bin\Debug\net6.0-windows\random_timer.exe
+C:\Users\kik-n\Desktop\Program\C#\random_timer\random_timer\bin\Debug\net6.0-windows\random_timer.deps.json
+C:\Users\kik-n\Desktop\Program\C#\random_timer\random_timer\bin\Debug\net6.0-windows\random_timer.runtimeconfig.json
+C:\Users\kik-n\Desktop\Program\C#\random_timer\random_timer\bin\Debug\net6.0-windows\random_timer.dll
+C:\Users\kik-n\Desktop\Program\C#\random_timer\random_timer\bin\Debug\net6.0-windows\random_timer.pdb
+C:\Users\kik-n\Desktop\Program\C#\random_timer\random_timer\obj\Debug\net6.0-windows\random_timer.csproj.AssemblyReference.cache
+C:\Users\kik-n\Desktop\Program\C#\random_timer\random_timer\obj\Debug\net6.0-windows\random_timer.Form1.resources
+C:\Users\kik-n\Desktop\Program\C#\random_timer\random_timer\obj\Debug\net6.0-windows\random_timer.csproj.GenerateResource.cache
+C:\Users\kik-n\Desktop\Program\C#\random_timer\random_timer\obj\Debug\net6.0-windows\random_timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kik-n\Desktop\Program\C#\random_timer\random_timer\obj\Debug\net6.0-windows\random_timer.AssemblyInfoInputs.cache
+C:\Users\kik-n\Desktop\Program\C#\random_timer\random_timer\obj\Debug\net6.0-windows\random_timer.AssemblyInfo.cs
+C:\Users\kik-n\Desktop\Program\C#\random_timer\random_timer\obj\Debug\net6.0-windows\random_timer.csproj.CoreCompileInputs.cache
+C:\Users\kik-n\Desktop\Program\C#\random_timer\random_timer\obj\Debug\net6.0-windows\random_timer.dll
+C:\Users\kik-n\Desktop\Program\C#\random_timer\random_timer\obj\Debug\net6.0-windows\refint\random_timer.dll
+C:\Users\kik-n\Desktop\Program\C#\random_timer\random_timer\obj\Debug\net6.0-windows\random_timer.pdb
+C:\Users\kik-n\Desktop\Program\C#\random_timer\random_timer\obj\Debug\net6.0-windows\random_timer.genruntimeconfig.cache
+C:\Users\kik-n\Desktop\Program\C#\random_timer\random_timer\obj\Debug\net6.0-windows\ref\random_timer.dll
