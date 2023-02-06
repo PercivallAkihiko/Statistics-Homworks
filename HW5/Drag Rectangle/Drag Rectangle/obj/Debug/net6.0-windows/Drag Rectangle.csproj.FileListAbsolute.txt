@@ -1,0 +1,17 @@
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW5\Drag Rectangle\Drag Rectangle\bin\Debug\net6.0-windows\Drag Rectangle.exe
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW5\Drag Rectangle\Drag Rectangle\bin\Debug\net6.0-windows\Drag Rectangle.deps.json
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW5\Drag Rectangle\Drag Rectangle\bin\Debug\net6.0-windows\Drag Rectangle.runtimeconfig.json
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW5\Drag Rectangle\Drag Rectangle\bin\Debug\net6.0-windows\Drag Rectangle.dll
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW5\Drag Rectangle\Drag Rectangle\bin\Debug\net6.0-windows\Drag Rectangle.pdb
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW5\Drag Rectangle\Drag Rectangle\obj\Debug\net6.0-windows\Drag Rectangle.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW5\Drag Rectangle\Drag Rectangle\obj\Debug\net6.0-windows\Drag_Rectangle.Form1.resources
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW5\Drag Rectangle\Drag Rectangle\obj\Debug\net6.0-windows\Drag Rectangle.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW5\Drag Rectangle\Drag Rectangle\obj\Debug\net6.0-windows\Drag Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW5\Drag Rectangle\Drag Rectangle\obj\Debug\net6.0-windows\Drag Rectangle.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW5\Drag Rectangle\Drag Rectangle\obj\Debug\net6.0-windows\Drag Rectangle.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW5\Drag Rectangle\Drag Rectangle\obj\Debug\net6.0-windows\Drag Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW5\Drag Rectangle\Drag Rectangle\obj\Debug\net6.0-windows\Drag Rectangle.dll
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW5\Drag Rectangle\Drag Rectangle\obj\Debug\net6.0-windows\refint\Drag Rectangle.dll
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW5\Drag Rectangle\Drag Rectangle\obj\Debug\net6.0-windows\Drag Rectangle.pdb
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW5\Drag Rectangle\Drag Rectangle\obj\Debug\net6.0-windows\Drag Rectangle.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW5\Drag Rectangle\Drag Rectangle\obj\Debug\net6.0-windows\ref\Drag Rectangle.dll
