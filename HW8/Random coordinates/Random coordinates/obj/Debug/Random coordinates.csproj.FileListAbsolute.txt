@@ -1,0 +1,11 @@
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW7\Random coordinates\Random coordinates\bin\Debug\Random coordinates.exe.config
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW7\Random coordinates\Random coordinates\bin\Debug\Random coordinates.exe
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW7\Random coordinates\Random coordinates\bin\Debug\Random coordinates.pdb
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW7\Random coordinates\Random coordinates\obj\Debug\Random coordinates.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW7\Random coordinates\Random coordinates\obj\Debug\Random coordinates.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW7\Random coordinates\Random coordinates\obj\Debug\Random_coordinates.Form1.resources
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW7\Random coordinates\Random coordinates\obj\Debug\Random_coordinates.Properties.Resources.resources
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW7\Random coordinates\Random coordinates\obj\Debug\Random coordinates.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW7\Random coordinates\Random coordinates\obj\Debug\Random coordinates.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW7\Random coordinates\Random coordinates\obj\Debug\Random coordinates.exe
+C:\Users\franc\OneDrive\Desktop\File\Sapienza\Primo Anno\Primo Semestre\Statistics\HW7\Random coordinates\Random coordinates\obj\Debug\Random coordinates.pdb
